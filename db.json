@@ -1,0 +1,72 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "username": "bloodbada12",
+      "nickname": "인천피바다",
+      "password": "bada123"
+    },
+    {
+      "id": 2,
+      "username": "bloodbada1234",
+      "nickname": "인천피바다2",
+      "password": "bada1234"
+    },
+    {
+      "username": "test",
+      "nickname": "test",
+      "password": "test",
+      "id": 3
+    },
+    {
+      "username": "22",
+      "nickname": "22",
+      "password": "22",
+      "id": 4
+    },
+    {
+      "username": "test",
+      "nickname": "test",
+      "password": "test",
+      "id": 5
+    },
+    {
+      "username": "11",
+      "nickname": "11",
+      "password": "11",
+      "id": 6
+    },
+    {
+      "username": "11",
+      "nickname": "11",
+      "password": "11",
+      "id": 7
+    },
+    {
+      "username": "jyhan1993",
+      "nickname": "한지윤",
+      "password": "Vffks112233!!!",
+      "id": 8
+    },
+    {
+      "username": "jyhan139",
+      "nickname": "야호호호",
+      "password": "adslkas;ldk;aslkd",
+      "id": 9
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username": "bloodbada12",
+      "nickname": "인천피바다",
+      "password": "bada123"
+    },
+    {
+      "id": 2,
+      "username": "bloodbada1234",
+      "nickname": "인천피바다2",
+      "password": "bada1234"
+    }
+  ]
+}
